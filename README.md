@@ -32,7 +32,7 @@ All resources were deployed manually using the *AWS Console*.
 
 ## 📊 Architecture Diagram
 
-![Architecture Diagram](architecture-diagram.png)
+<img width="611" height="481" alt="Image" src="https://github.com/user-attachments/assets/fc340c38-62c3-4b46-a033-2f06460f87bc" />
 
 *Key points:*  
 - Multi-AZ deployment for high availability  
